@@ -18,7 +18,7 @@ function App() {
                             <FeedbackForm />
                             <FeedbackStats />
                             <FeedbackList />
-                    </Route>
+                        </Route>
 
                     <Route path="/about" component={AboutPage}></Route>
 
